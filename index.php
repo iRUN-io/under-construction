@@ -50,6 +50,7 @@ if (isset($_POST["submit"])) {
   <meta name="keywords" content="Saas, Software, Automation" />
   <meta name="author" content="iRUN Technology" />
   <meta name="email" content="info@irunauto.com" />
+  <link rel="shortcut icon" href="img/favicon.ico">
   <meta name="website" content="https://irunauto.com" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
   <link rel="stylesheet" href="css/style.css">
@@ -57,9 +58,7 @@ if (isset($_POST["submit"])) {
 </head>
 
 <body>
-
   <section class="whole">
-
     <div class="content">
       <h1><span class="logo"><img src="img/logo.png" alt="Irun" style="width: 100px;"></h1>
       <h2>We are building something awesome. Follow us for Updates now!</h2>
@@ -80,7 +79,6 @@ if (isset($_POST["submit"])) {
       </div>
     </div>
   </section>
-
 </body>
 <!-- Import jquery -->
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
